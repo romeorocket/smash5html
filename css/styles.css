@@ -1,0 +1,157 @@
+body {
+	background-color: #F5F4EF;
+	color: #000305;
+	font-family: "Trebuchet MS", Trebuchet, "Lucida Sans Unicode", Arial, sans-serif;
+}
+
+a {
+	color: #c74451;
+	text-decoration: none;
+	border-bottom: 1px solid #c74451;
+	transition: all .25s ease;
+}
+
+a:hover,
+a:focus,
+a:active {
+	background: #c74451;
+	color: #fff;
+}
+
+
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.header{
+	padding: : 20px 0;
+}
+
+.header a {
+	color: #000305;
+	text-decoration: none;
+	transition: color .25s ease;
+}
+
+.header__title {
+	font-size: 64px;
+	margin-bottom: 0;
+}
+
+.header__subtitle {
+	font-size: 20px;
+	margin: 0 0 20px;
+}
+
+.header a:hover,
+.header a:focus,
+.header a:active {
+	color: #c74451;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+.section {
+	color: #000305;
+	background: #fff;
+	border-radius: 15px;
+	padding: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.section__title {
+	color: #c74451;
+	margin: 0;
+}
+
+.section__title a {
+	color: #c74451;
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+.section__title a:hover,
+.section__title a:focus,
+.section__title a:active {
+	color: #fff;
+	background: #c74451;
+}
+
+.section__subtitle {
+	margin: 8px 0;
+}
+
+.section__subtitle a {
+	color: inherit;
+	border: 0;
+}
+
+.section__subtitle a:hover,
+.section__subtitle a:focus,
+.section__subtitle a:active {
+	color: #fff;
+}
+
+.section__text {
+	margin: 0;
+	font-size: 20px;
+}
+
+.articles {
+	margin: 0;
+	padding: 0; 
+}
+
+.articles li article time,
+.articles li article author {
+	display: block;
+}
+
+.articles li {
+	padding: 20px;
+}
+
+.articles li:not(:last-child) {
+	border-bottom: 1px solid #eee;
+}
+
+.aside ul {
+	padding: 0;
+	max-width: 35%;
+}
+
+.aside ul li a {
+	padding: 5px 2px;
+	display: inline-block;
+	width: 100%;
+	color: inherit;
+	border-bottom: 1px solid #eee;
+}
+
+.aside ul li a:hover,
+.aside ul li a:focus,
+.aside ul li a:active {
+	color: #fff;
+	transition: color .25s ease;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.footer .section {
+	display: flex;
+}
+
+.footer .section .column:first-child {
+	width: 40%;
+}
+
+.footer .section .section__title {
+	margin-top: :  15px;
+	border: 0;
+}

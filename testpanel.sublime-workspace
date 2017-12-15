@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n\n\nTheme - Cobalt2\n---------------\n\n  Welcome to Cobalt2! 💁\n  \n  This theme has undergone many tweaks over the past few months and I'm excited to finally have an update for you all. 👌\n  \n  You can see all the refinements and suggested settings at <https://github.com/wesbos/cobalt2> as well as suggest any tweaks you may have.\n  \n  Many new things have been added, including:\n  \n  - Sidebar Icons\n  - Current file highlighting in sidebar\n  - highlighted tab\n  - new dirty state tab circle\n  - small tab refinements\n  - autocomplete, goto anything and command palette refinements\n  \n  🔥📖 I wrote a book + video series on Sublime Text! → SublimeTextBook.com\n  🔥📼 And a Premium training course on ES6 → ES6.io\n  🔥📼 And I created a Training series on React.js → ReactForBeginners.com\n  \n  Use the coupon code COBALT2 for $15 off 💰 💵\n  \n  😘 With Love,\n  \n  @wesbos\n  \n  Tweets at twitter.com/@wesbos  😗 😗 😗\n",
+			"settings":
+			{
+				"buffer_size": 2008,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/html5smash"
+	],
+	"file_history":
+	[
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/html5smash/inner.html",
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/html5smash/index.html",
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/html5smash/testpanel.sublime-project",
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/html5smash/testpanel.sublime-workspace",
+		"/C/Users/Rocky/Desktop/BeetrootAcademy/homework1/homework1.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"This be the title<",
+			"aperiam",
+			"Ducimus",
+			"></",
+			"Enrique Ramirez",
+			"></",
+			"Ramirez",
+			"Enrique Ramirez"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2008,
+								2008
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\Rocky\\Desktop\\BeetrootAcademy\\html5smash",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testpanel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
